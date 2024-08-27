@@ -1,0 +1,69 @@
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\appsettings.Development.json
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\appsettings.json
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\efpt.config.json
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Registration server project
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Registration server project.deps.json
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Registration server project.runtimeconfig.json
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Registration server project.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Registration server project.pdb
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Azure.Core.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Azure.Identity.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Web.Cors.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Net.Http.Formatting.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Web.Http.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Web.Http.Cors.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.Extensions.Features.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.OpenApi.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.SqlServer.Server.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Newtonsoft.Json.Bson.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.DirectoryServices.Protocols.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Drawing.Common.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Memory.Data.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Runtime.Caching.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Security.Permissions.dll
+C:\Users\ICS0020\source\repos\Registration server project\bin\Release\net8.0\linux-x64\System.Windows.Extensions.dll
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.csproj.AssemblyReference.cache
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.AssemblyInfoInputs.cache
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.AssemblyInfo.cs
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.csproj.CoreCompileInputs.cache
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\staticwebassets.build.json
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\staticwebassets.development.json
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.Registration server project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.build.Registration server project.props
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.Registration server project.props
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.buildTransitive.Registration server project.props
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\staticwebassets.pack.json
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\scopedcss\bundle\Registration server project.styles.css
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registra.4429A292.Up2Date
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.dll
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\refint\Registration server project.dll
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.pdb
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\Registration server project.genruntimeconfig.cache
+C:\Users\ICS0020\source\repos\Registration server project\obj\Release\net8.0\linux-x64\ref\Registration server project.dll

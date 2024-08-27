@@ -1,0 +1,6 @@
+@Registration_server_project_HostAddress = http://localhost:5109
+
+GET {{Registration_server_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
